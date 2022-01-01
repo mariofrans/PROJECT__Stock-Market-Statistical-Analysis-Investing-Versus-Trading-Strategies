@@ -1,6 +1,6 @@
 STOCK MARKET STATISTICAL ANALYSIS: INVESTING VERSUS TRADING STRATEGIES
 
-* Python Libraries & APIs (Required):
+> Python Libraries & APIs (Required):
 - yfinance
 - pandas
 - numpy
@@ -10,7 +10,7 @@ STOCK MARKET STATISTICAL ANALYSIS: INVESTING VERSUS TRADING STRATEGIES
 - datetime
 - dateutil
 
-* Executing the program (Tutorial):
+> Executing the program (Tutorial):
 1. Clone the repository to your computer, and sure that all the files are complete as it
 is in the GitHub repository.
 2. Make sure that all the indicator and directory variables in 'variables.py' file are 
